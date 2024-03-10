@@ -61,3 +61,4 @@ Testing Api's with postman.
 
 23)Socket.IO, to test that you have to clone this react app :https://github.com/UzairAJ1/socket-test-react.git then run this, when you start this you will get connected to socket, so i have only implemented this in createTask api, when you log in in postman 
 get the userId and paste it in react app where the user is define, so whenever a task will be created for that user in backend the client app will get a message that task created for you.
+make sure the react app is running on port 3000 and backend is running on 3333
