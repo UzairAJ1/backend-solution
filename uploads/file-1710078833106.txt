@@ -1,0 +1,2 @@
+Next js app which uses Redux Toolkit, Google location api with Tailwind css
+https://home-uzairaj1.vercel.app/
